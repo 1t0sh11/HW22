@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HW22/HW22.vcxproj" Id="20a73b27-ee6d-498b-be4f-3c3a31d4b45f" />
+</Solution>
